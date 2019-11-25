@@ -30,7 +30,7 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference - When logged out, I can view a Salesperson and change their ID in the browser to 10 for a Salesperson Not Public Yet
 
 Vulnerability #2: __________________
 
