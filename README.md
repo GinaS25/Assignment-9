@@ -23,7 +23,7 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: Username enumeeration - When it is a valid username, the error is bold. If user does not exist, the error is not bold.
+Vulnerability #1: Username enumeration - When it is a valid username, the error is bold. If user does not exist, the error is not bold.
 
 Vulnerability #2: __________________
 
