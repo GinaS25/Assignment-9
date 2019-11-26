@@ -16,7 +16,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection
 
 Vulnerability #2: __________________
 
@@ -25,7 +25,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: Username enumeration - When it is a valid username, the error is bold. If user does not exist, the error is not bold. See attached "Challenge Goal 1 Again.gif" file.
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Scripting.
 
 
 ## Red
