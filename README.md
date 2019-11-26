@@ -12,7 +12,7 @@ The six possible exploits are:
 * Cross-Site Request Forgery (CSRF)
 * Session Hijacking/Fixation
 
-Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
+Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.) 
 
 ## Blue
 
@@ -23,14 +23,14 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: Username enumeration - When it is a valid username, the error is bold. If user does not exist, the error is not bold.
+Vulnerability #1: Username enumeration - When it is a valid username, the error is bold. If user does not exist, the error is not bold. See attached "Challenge Goal 1 Again.gif" file.
 
 Vulnerability #2: __________________
 
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference - When logged out, I can view a Salesperson that is not public yet by changing the Salesperson ID to the not public ID (10) and see that salepersons information.
+Vulnerability #1: Insecure Direct Object Reference - When logged out, I can view a Salesperson that is not public yet by changing the Salesperson ID to the not public ID (10) and see that salepersons information. See attached "Challenge Goal 2.gif" file.
 
 Vulnerability #2: __________________
 
